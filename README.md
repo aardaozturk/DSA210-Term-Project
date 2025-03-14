@@ -20,13 +20,13 @@ Our growing reliance on digital devices have created concerns about negatively a
 
 # Data Sources
 
-# 1. Screen Time Data (Screen Time App):
+## 1. Screen Time Data (Screen Time App):
 
 Data will be exported from screen time application in Apple.
 
 
 
-Measurements Obtained:
+### Measurements Obtained:
 
 
 
@@ -40,7 +40,7 @@ Measurements Obtained:
 
 
 
-# 2. Sleep Data (Sleep Tracking App):
+## 2. Sleep Data (Sleep Tracking App):
 
 
 
@@ -48,7 +48,7 @@ Data will be gathered from a sleep tracking application (Da Fit) which is applic
 
 
 
-Measurements Obtained:
+### Measurements Obtained:
 
 - Total amount of sleep time (hours/minutes)
 
@@ -84,19 +84,19 @@ Data Preparation:
 
 
 
-Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 
 In order to achieve the project goals, I am going to implement Exploratory Data Analysis. In the first step, I am going to summarize the screen time and sleep data in order to find patterns and correlations between screen time and sleep quality. Latter, I will split the data to specific timeframes to analyze trends over time. By doing so, the project will be able to explore the hypotheses in a broader way. After implementing all these operations, the findings will be visualized in order to display relations between screen usage and sleep parameters in a comprehensive way. For visualization, I am going to use bar charts, histograms, heatmaps, scatter plots and line graphs to highlight trends, outliers, correlations between these datasets. 
 
 
 
-Statistical Analysis:
+### Statistical Analysis:
 
 For statistical analysis, Pearson’s correlation will help to identify relationships, while regression analysis will assess the predictive power of screen time on sleep quality. Lastly, to further understand how screen time affects sleep outcomes, hypothesis testing will compare groups with high and low screen time.
 
 
 
-Application of Machine Learning:
+### Application of Machine Learning:
 
 - Regression algorithms can be used in order to predict sleep quality based on screen time data (Linear Regression, Random Forest Regression, etc.).
 
