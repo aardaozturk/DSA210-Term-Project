@@ -44,7 +44,7 @@ Data will be exported from screen time application in Apple.
 
 
 
-Data will be gathered from a sleep tracking application (Da Fit) which is application of my smart watch.
+Data will be gathered from a sleep tracking application (Da Fit) which is the application of my smart watch.
 
 
 
