@@ -100,4 +100,4 @@ For statistical analysis, Pearson’s correlation will help to identify relation
 
 - Regression algorithms can be used in order to predict sleep quality based on screen time data (Linear Regression, Random Forest Regression, etc.).
 
-- Feature importance analysis can be applied to identify important screen time characteristics which impact sleep.
+- Feature importance analysis can be applied to identify important screen time characteristics which impacts sleep schedule.
