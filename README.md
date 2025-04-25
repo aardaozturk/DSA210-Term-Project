@@ -66,9 +66,18 @@ Data will be gathered from a sleep tracking application (Da Fit) which is the ap
 
 # Hypotheses
 
-- H1: The length and quality of the sleep is being negatively impacted by higher screen time during the day.
+In my project, I will consider two different hypotheses, which are stated below.
 
-- H2: Amount of time it takes to fall a sleep is increased due to more screen usage close to sleeping times.
+- H0: There is no relationship between the daily screen time and quality of sleep. Higher screen time does not affect sleep quality.
+
+- Ha: The length and quality of the sleep is being negatively impacted by higher screen time during the day.
+
+*************************************************************************************
+
+- H0’: Screen usage close to sleeping times has no impact on the amount of time it takes to fall asleep. 
+
+- Ha’: Amount of time it takes to fall asleep is increased due to more screen usage close to sleeping times. 
+
 
 
 
