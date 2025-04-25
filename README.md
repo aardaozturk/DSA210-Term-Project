@@ -72,7 +72,7 @@ In my project, I will consider two different hypotheses, which are stated below.
 
 - Ha: The length and quality of the sleep is being negatively impacted by higher screen time during the day.
 
-*************************************************************************************
+
 
 - H0’: Screen usage close to sleeping times has no impact on the amount of time it takes to fall asleep. 
 
